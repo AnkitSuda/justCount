@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">justCount</string>
+    <string name="app_developer">Android Grid</string>
+
+    <string name="lap">Lap</string>
+    <string name="start">Start</string>
+    <string name="pause">Pause</string>
+    <string name="reset">Reset</string>
+    <string name="conti">Continue</string>
+    <string name="time_format">00:00.000</string>
+
+</resources>
